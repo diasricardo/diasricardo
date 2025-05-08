@@ -1,4 +1,4 @@
-Professor | Desenvolvedor Full Stack | Entusiasta de IA e Educação
+Professor | Desenvolvedor Full Stack
 
 Sou Instrutor do curso técnico em Desenvolvimento de Sistemas no SENAI-SP, com ampla experiência em ensino de programação, desenvolvimento web, banco de dados e práticas ágeis. Tenho paixão por unir tecnologia e educação, criando soluções que ajudam alunos a aprender de forma prática e envolvente.
 
