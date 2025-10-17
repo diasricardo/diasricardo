@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou o Ricardo 👋</h1>
 <h3 align="center">👨‍🏫 Professor & 💻 Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME_DO_GITHUB]&label=Profile%20views&color=0e75b6&style=flat" alt="visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=diasricardo&label=Profile%20views&color=0e75b6&style=flat" alt="visualizações do perfil" />
 </p>
 
 ---
