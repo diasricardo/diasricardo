@@ -144,7 +144,7 @@
 ### 📬 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-dos-anjos-dias-693bab28/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[SEU_EMAIL]" target="_blank">
